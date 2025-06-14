@@ -1,6 +1,6 @@
 ## License
 
-All repos under this organisation operate under an MIT license unless specified.
+All public repos under this organisation operate under an MIT license unless specified.
 
 Copyright (c) 2025 BH Cloud Labs Ltd
 
